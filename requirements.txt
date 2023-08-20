@@ -63,7 +63,7 @@ matplotlib==3.5.3
 matplotlib-inline==0.1.6
 mistune==3.0.1
 mpmath==1.3.0
-nbclient==0.8.0
+nbclient==0.7.4
 nbconvert==7.7.3
 nbdime==3.2.1
 nbformat==5.9.2
